@@ -1,0 +1,6 @@
+module Pods_skoove_skooveTests {
+  umbrella header "Pods-skoove-skooveTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

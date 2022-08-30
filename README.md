@@ -1,2 +1,2 @@
-# skoove
-RN Challenge
+# skoove-player
+Skoove Coding Challenge

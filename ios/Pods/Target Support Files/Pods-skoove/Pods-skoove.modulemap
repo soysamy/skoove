@@ -1,0 +1,6 @@
+module Pods_skoove {
+  umbrella header "Pods-skoove-umbrella.h"
+
+  export *
+  module * { export * }
+}
